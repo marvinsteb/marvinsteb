@@ -2,6 +2,19 @@
 
 Desarrollador **.NET** con experiencia en sistemas **Back-End**, integración con **SAP**, y desarrollo de soluciones empresariales automatizadas.
 
+---
+
+## 🔧 Tecnologías y herramientas
+
+- **Lenguajes:** C# (.NET Framework / .NET Core), PHP (Laravel), SQL  
+- **Bases de datos:** Oracle, SQL Server, MySQL  
+- **Frameworks Front-End:** Angular, React  
+- **Integraciones:** SAP DI API, SAP Service Layer, RabbitMQ, Firebase Cloud Messaging (FCM)  
+- **Servicios y APIs:** Desarrollo y mantenimiento de servicios Windows, APIs REST, workers para procesos automatizados  
+- **DevOps & Administración:** Configuración y administración de servidores Windows y Linux, monitoreo con ELK Stack (Elasticsearch, Logstash, Kibana)  
+- **Otras habilidades:** Análisis de datos, generación de reportes, mensajería asincrónica, notificaciones push  
+
+---
 
 <!--
 **marvinsteb/marvinsteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
