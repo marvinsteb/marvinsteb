@@ -21,7 +21,7 @@ Desarrollador **.NET** con experiencia en sistemas **Back-End**, integración co
 
 Puedes encontrarme en:
 
-- LinkedIn: [@marvinsteb]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/marvinsteb-desarrollador-dotnet/))  
+- LinkedIn: [marvinsteb-desarrollador-dotnet]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/marvinsteb-desarrollador-dotnet/))  
 - Email: mmenchu@outlook.com 
 ---
 
