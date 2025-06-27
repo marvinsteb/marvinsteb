@@ -16,6 +16,16 @@ Desarrollador **.NET** con experiencia en sistemas **Back-End**, integración co
 
 ---
 
+
+## 📫 ¿Quieres contactarme?
+
+Puedes encontrarme en:
+
+- LinkedIn: [@marvinsteb]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/marvinsteb-desarrollador-dotnet/))  
+- Email: mmenchu@outlook.com 
+---
+
+Gracias por visitar mi perfil. ¡Estoy abierto a colaborar en proyectos interesantes!
 <!--
 **marvinsteb/marvinsteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
